@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> **From Apple Deveolper Guide:**
+**From Apple Deveolper Guide:**
 
 > The camera and associated hardware in your iPhone or iPad offer incredibly powerful image capture and processing capabilities. These capabilities are exposed in the AVFoundation framework through a rich suite of photo capture APIs, enabling you to bring sophisticated camera-based features to your apps.
 
