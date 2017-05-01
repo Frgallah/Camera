@@ -39,7 +39,7 @@ to make the process of creating a powerfull camera app easy and painless for dev
 ## Backlog and Tasks
 
 
-### some videos samples of effects
+### Effects
 
 **1. Sample 1**
 
