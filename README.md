@@ -39,4 +39,41 @@ to make the process of creating a powerfull camera app easy and painless for dev
 ## Backlog and Tasks
 
 
+### some videos samples of effects
+
+**1. Sample 1**
+
+<div>
+<img src="sample1.gif"  width="140"/>
+</div>
+
+----------
+
+**2. Sample 2**
+
+<div>
+<img src="sample2.gif" width="140"/>
+</div>
+
+----------
+
+**3. Sample 3**
+
+<div>
+<img src="sample3.gif" width="140"/>
+</div>
+
+----------
+
+**4. Sample 4**
+
+<div>
+<img src="sample4.gif" width="140"/>
+</div>
+
+----------
+
+
+
+
 
