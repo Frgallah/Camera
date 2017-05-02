@@ -75,7 +75,146 @@ to make the process of creating a powerfull camera app easy and painless for dev
 
 ----------
 
+**1. Sample 19**
 
+<div>
+<img src="sample19.gif"  width="140"/>
+</div>
 
+----------
 
+**2. Sample 20**
 
+<div>
+<img src="sample20.gif" width="140"/>
+</div>
+
+----------
+
+**3. Sample 21**
+
+<div>
+<img src="sample21.gif" width="140"/>
+</div>
+
+----------
+
+**4. Sample 22**
+
+<div>
+<img src="sample22.gif" width="140"/>
+</div>
+
+----------
+
+**1. Sample 23**
+
+<div>
+<img src="sample23.gif"  width="140"/>
+</div>
+
+----------
+
+**2. Sample 24**
+
+<div>
+<img src="sample24.gif" width="140"/>
+</div>
+
+----------
+
+**3. Sample 25**
+
+<div>
+<img src="sample25.gif" width="140"/>
+</div>
+
+----------
+
+**4. Sample 26**
+
+<div>
+<img src="sample26.gif" width="140"/>
+</div>
+
+----------
+
+**1. Sample 28**
+
+<div>
+<img src="sample28.gif"  width="140"/>
+</div>
+
+----------
+
+**2. Sample 29**
+
+<div>
+<img src="sample29.gif" width="140"/>
+</div>
+
+----------
+
+**3. Sample 30**
+
+<div>
+<img src="sample30.gif" width="140"/>
+</div>
+
+----------
+
+**4. Sample 31**
+
+<div>
+<img src="sample31.gif" width="140"/>
+</div>
+
+----------
+
+**1. Sample 32**
+
+<div>
+<img src="sample32.gif"  width="140"/>
+</div>
+
+----------
+
+**2. Sample 33**
+
+<div>
+<img src="sample33.gif" width="140"/>
+</div>
+
+----------
+
+**3. Sample 34**
+
+<div>
+<img src="sample34.gif" width="140"/>
+</div>
+
+----------
+
+**4. Sample 36**
+
+<div>
+<img src="sample36.gif" width="140"/>
+</div>
+
+----------
+
+**1. Sample 37**
+
+<div>
+<img src="sample37.gif"  width="140"/>
+</div>
+
+----------
+
+**2. Sample 38**
+
+<div>
+<img src="sample38.gif" width="140"/>
+</div>
+
+----------
